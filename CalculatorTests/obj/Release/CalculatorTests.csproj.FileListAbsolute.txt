@@ -1,0 +1,5 @@
+d:\Test\Msbuild\HelloNew\BuildArtifacts\CalculatorTests.dll
+d:\Test\Msbuild\HelloNew\BuildArtifacts\CalculatorTests.pdb
+d:\Test\Msbuild\HelloNew\CalculatorTests\obj\Release\CalculatorTests.csprojResolveAssemblyReference.cache
+d:\Test\Msbuild\HelloNew\CalculatorTests\obj\Release\CalculatorTests.dll
+d:\Test\Msbuild\HelloNew\CalculatorTests\obj\Release\CalculatorTests.pdb

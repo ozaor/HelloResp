@@ -1,0 +1,5 @@
+d:\Test\Msbuild\HelloNew\BuildArtifacts\HelloNew.dll
+d:\Test\Msbuild\HelloNew\BuildArtifacts\HelloNew.pdb
+d:\Test\Msbuild\HelloNew\HelloNew\obj\Release\HelloNew.csprojResolveAssemblyReference.cache
+d:\Test\Msbuild\HelloNew\HelloNew\obj\Release\HelloNew.dll
+d:\Test\Msbuild\HelloNew\HelloNew\obj\Release\HelloNew.pdb
