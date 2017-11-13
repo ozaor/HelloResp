@@ -5,3 +5,10 @@ D:\Test\Msbuild\HelloNew\CalculatorTests\bin\Debug\HelloNew.dll
 D:\Test\Msbuild\HelloNew\CalculatorTests\bin\Debug\HelloNew.pdb
 D:\Test\Msbuild\HelloNew\CalculatorTests\obj\Debug\CalculatorTests.dll
 D:\Test\Msbuild\HelloNew\CalculatorTests\obj\Debug\CalculatorTests.pdb
+D:\Test\Msbuild\HelloNew\HelloResp\CalculatorTests\bin\Debug\CalculatorTests.dll
+D:\Test\Msbuild\HelloNew\HelloResp\CalculatorTests\bin\Debug\CalculatorTests.pdb
+D:\Test\Msbuild\HelloNew\HelloResp\CalculatorTests\bin\Debug\HelloNew.dll
+D:\Test\Msbuild\HelloNew\HelloResp\CalculatorTests\bin\Debug\HelloNew.pdb
+D:\Test\Msbuild\HelloNew\HelloResp\CalculatorTests\obj\Debug\CalculatorTests.csprojResolveAssemblyReference.cache
+D:\Test\Msbuild\HelloNew\HelloResp\CalculatorTests\obj\Debug\CalculatorTests.dll
+D:\Test\Msbuild\HelloNew\HelloResp\CalculatorTests\obj\Debug\CalculatorTests.pdb

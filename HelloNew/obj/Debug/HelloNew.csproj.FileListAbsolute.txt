@@ -3,3 +3,8 @@ D:\Test\Msbuild\HelloNew\HelloNew\bin\Debug\HelloNew.pdb
 D:\Test\Msbuild\HelloNew\HelloNew\obj\Debug\HelloNew.csprojResolveAssemblyReference.cache
 D:\Test\Msbuild\HelloNew\HelloNew\obj\Debug\HelloNew.dll
 D:\Test\Msbuild\HelloNew\HelloNew\obj\Debug\HelloNew.pdb
+D:\Test\Msbuild\HelloNew\HelloResp\HelloNew\bin\Debug\HelloNew.dll
+D:\Test\Msbuild\HelloNew\HelloResp\HelloNew\bin\Debug\HelloNew.pdb
+D:\Test\Msbuild\HelloNew\HelloResp\HelloNew\obj\Debug\HelloNew.csprojResolveAssemblyReference.cache
+D:\Test\Msbuild\HelloNew\HelloResp\HelloNew\obj\Debug\HelloNew.dll
+D:\Test\Msbuild\HelloNew\HelloResp\HelloNew\obj\Debug\HelloNew.pdb
