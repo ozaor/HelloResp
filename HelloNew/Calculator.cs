@@ -8,7 +8,7 @@ namespace HelloNew
 {
     public class Calculator
     {
-        public double division(double x, double y)s
+        public double division(double x, double y)
         {
        
             if (y == 0)
