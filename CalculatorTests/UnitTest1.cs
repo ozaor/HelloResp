@@ -22,7 +22,7 @@ namespace CalculatorTests
             double xx = 100;
             double y = 200;
             double div = calc.division(xx, y);
-            Assert.AreEqual(0.5, div);
+            Assert.AreEqual(0.1, div);
         }
 
         [TestMethod]
