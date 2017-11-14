@@ -19,9 +19,9 @@ namespace CalculatorTests
         [TestMethod]
         public void testValidDiv()
         {
-            double x = 100;
+            double xx = 100;
             double y = 200;
-            double div = calc.division(x, y);
+            double div = calc.division(xx, y);
             Assert.AreEqual(0.5, div);
         }
 
