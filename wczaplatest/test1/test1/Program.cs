@@ -10,6 +10,9 @@ namespace test1
     {
         static void Main(string[] args)
         {
+            var ff = 0;
+
+            ff.
         }
     }
 }
