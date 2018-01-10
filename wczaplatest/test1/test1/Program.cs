@@ -12,7 +12,7 @@ namespace test1
         {
             var ff = 0;
 
-            var dd = ff.ToString()
+            var dd = ff.ToString();
         }
     }
 }
