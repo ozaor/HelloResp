@@ -14,7 +14,7 @@
         public void TestMethod()
         {
             // TODO: Add your test code here
-            Assert.AreEqual(2, 3, "nie przeszlo sdasdas");
+            Assert.AreEqual(2, 3, "nie przeszlo");
         }
     }
 }
